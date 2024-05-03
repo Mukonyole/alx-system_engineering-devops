@@ -1,5 +1,3 @@
 #!/bin/bash
-#it displays its PID.
-
 echo $$
 
