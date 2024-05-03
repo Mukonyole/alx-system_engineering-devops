@@ -1,11 +1,2 @@
-+---[RSA 3072]----+
-|         o++..E  |
-|   .    . .      |
-|  o . o  = =     |
-| o   = +o * o    |
-|. . = = S. o     |
-|.. o = = o. o    |
-|+.  . + + o. .   |
-|B.o      o ...   |
-|*Bo.        .o=o |
-+----[SHA256]-----+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDC8QG0GvYqmnXp44rvMBlFEhD/m8aX3JOrOVCqAgQqPhXWdVl4jgNtc9ZOqrordjhiLoyvwvzeMUNuAcoHl+GmtYU7I7lRfoHQYcDAUpPH2Ln0/9jbnqbm8rpsxiJtj39zx5+bx+MNUCfZYtZu9CApu1DY7SIKd6Sr/lG4VKONxWmjLRrRMnxdEgpeGVWjwBOgni3dZkuOU4F/FSzevZjWyktGEb5Sa/RDQ7Flr1xl4PXcVQtt9+MWP+3wYPRwdZIvyYRjP8l3uN3M9OdpSpXyRQzdHx7VZKzKHedkPrPrerJD0F7C/BWEKnYTqtwbp78kdZP4qaFn7e5fMOEl7YsWqbXACiPvL8OICon+SkTXuyB1eSvHNR5HIc9bxZRJLDKlf9jfvmGtP4w1rvGvZvEc3VwJhS3PH0sRo+5e6tqP+txz0lljhOutwi23ZKzJskvhLTz8vAKFcNEptyOPDbARWDbfc72/wIIXrQFd4YrmYst5p00Rd4jEQbttY3NKods= lenovo@DESKTOP-4SI9Q5V
+
