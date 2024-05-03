@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#displays To infinity and beyond indefinitely.
+
+while true; do
+	echo "To infinite and beyond"
+	sleep 2
+done
+
