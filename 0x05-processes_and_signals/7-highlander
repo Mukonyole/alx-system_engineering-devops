@@ -1,0 +1,6 @@
+#!/bin/bash
+trap 'echo "I am invincible!!!"' 15
+while true; do
+	echo "to infinite and beyond"
+	sleep 2
+done
