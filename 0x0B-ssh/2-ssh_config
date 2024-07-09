@@ -1,4 +1,3 @@
-# Configure ssh client so that you can connect to a server without typing a password.
 Host *
-    IdentityFile ~/.ssh/school
-    PasswordAuthentication no
+	PasswordAuthentication no
+	IdentityFile ~/.ssh/school
